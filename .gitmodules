@@ -1,0 +1,3 @@
+[submodule "Edk2WinAflDll"]
+	path = Edk2WinAflDll
+	url = https://github.com/yrime/Edk2WinAflDll.git
